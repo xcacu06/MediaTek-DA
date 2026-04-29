@@ -1,0 +1,2 @@
+此DA+auth文件在BROM端口模式中并不可用，DA只适合在未打补丁的版本中配合carbonara漏洞使用
+支持的型号有OnePlusACE2V OnePlusNord3 OppoFindX5Pro(dimensity-ver)and other oplus mt6983 devices
